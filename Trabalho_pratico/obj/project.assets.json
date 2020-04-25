@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\OneDrive\\Ambiente de Trabalho\\Licenciatura\\2_semestre\\lp2\\Tranalho Pratico\\Trabalho_pratico\\Trabalho_pratico\\18856_Infecao.csproj",
+      "projectUniqueName": "C:\\Users\\renat\\OneDrive\\Ambiente de Trabalho\\Licenciatura\\2_semestre\\lp2\\Trabalho_Pratico\\Trabalho_pratico\\18856_Infecao.csproj",
       "projectName": "18856_Infecao",
-      "projectPath": "C:\\Users\\renat\\OneDrive\\Ambiente de Trabalho\\Licenciatura\\2_semestre\\lp2\\Tranalho Pratico\\Trabalho_pratico\\Trabalho_pratico\\18856_Infecao.csproj",
+      "projectPath": "C:\\Users\\renat\\OneDrive\\Ambiente de Trabalho\\Licenciatura\\2_semestre\\lp2\\Trabalho_Pratico\\Trabalho_pratico\\18856_Infecao.csproj",
       "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renat\\OneDrive\\Ambiente de Trabalho\\Licenciatura\\2_semestre\\lp2\\Tranalho Pratico\\Trabalho_pratico\\Trabalho_pratico\\obj\\",
+      "outputPath": "C:\\Users\\renat\\OneDrive\\Ambiente de Trabalho\\Licenciatura\\2_semestre\\lp2\\Trabalho_Pratico\\Trabalho_pratico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

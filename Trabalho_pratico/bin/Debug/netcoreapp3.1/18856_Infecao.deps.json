@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "18856_Infecao/1.0.0": {
+        "runtime": {
+          "18856_Infecao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18856_Infecao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

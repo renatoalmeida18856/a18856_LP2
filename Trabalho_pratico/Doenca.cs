@@ -18,7 +18,7 @@ namespace Trabalho_pratico
     #endregion
 
     #region Listar Doencas
-
+    // public void ListaDoencas()
     #endregion
 
 }

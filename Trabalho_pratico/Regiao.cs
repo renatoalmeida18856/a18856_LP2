@@ -7,8 +7,26 @@ namespace Trabalho_pratico
     class Regiao
     {
         #region Regioes
-        int Id;
-        string Nome;
+        public int Id;
+        public string Nome;
+        #endregion
+
+        #region Construtores
+        public Regiao(string nome)
+        {
+            this.nome = nome;
+        }
+
+        #endregion
+
+        #region Propriedades Regiao
+
+        public string nome
+        {
+            get { return nome; }
+            set { nome= value; }
+        }
+
         #endregion
 
         #region Adicionar Regiao

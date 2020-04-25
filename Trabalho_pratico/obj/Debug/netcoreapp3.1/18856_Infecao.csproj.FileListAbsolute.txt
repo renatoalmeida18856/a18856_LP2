@@ -1,0 +1,13 @@
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\bin\Debug\netcoreapp3.1\18856_Infecao.exe
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\bin\Debug\netcoreapp3.1\18856_Infecao.deps.json
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\bin\Debug\netcoreapp3.1\18856_Infecao.runtimeconfig.json
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\bin\Debug\netcoreapp3.1\18856_Infecao.runtimeconfig.dev.json
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\bin\Debug\netcoreapp3.1\18856_Infecao.dll
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\bin\Debug\netcoreapp3.1\18856_Infecao.pdb
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\obj\Debug\netcoreapp3.1\18856_Infecao.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\obj\Debug\netcoreapp3.1\18856_Infecao.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\obj\Debug\netcoreapp3.1\18856_Infecao.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\obj\Debug\netcoreapp3.1\18856_Infecao.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\obj\Debug\netcoreapp3.1\18856_Infecao.dll
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\obj\Debug\netcoreapp3.1\18856_Infecao.pdb
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Trabalho_pratico\obj\Debug\netcoreapp3.1\18856_Infecao.genruntimeconfig.cache
