@@ -1,0 +1,12 @@
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\bin\Debug\Formularios.exe
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\bin\Debug\Formularios.pdb
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.exe
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.pdb
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.Infeção.resources
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.UserControl1.resources
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.inicio.resources
