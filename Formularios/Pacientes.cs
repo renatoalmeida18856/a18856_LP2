@@ -12,6 +12,7 @@ namespace Formularios
         }
 
         //Inicializar a classe
+
         Paciente p = new Paciente();
 
         private void UserControl1_Load(object sender, EventArgs e)
