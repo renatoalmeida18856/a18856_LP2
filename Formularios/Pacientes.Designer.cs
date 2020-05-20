@@ -208,7 +208,6 @@
             this.label7.Size = new System.Drawing.Size(55, 13);
             this.label7.TabIndex = 16;
             this.label7.Text = "Infetado ?";
-            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // textBox3
             // 
@@ -238,7 +237,6 @@
             this.dataGridView2.RowTemplate.Height = 24;
             this.dataGridView2.Size = new System.Drawing.Size(776, 163);
             this.dataGridView2.TabIndex = 20;
-            this.dataGridView2.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
             this.dataGridView2.RowHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView2_RowHeaderMouseClick);
             // 
             // button2
@@ -281,7 +279,6 @@
             this.label9.Size = new System.Drawing.Size(43, 13);
             this.label9.TabIndex = 24;
             this.label9.Text = "Infeção";
-            this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
             // comboBox3
             // 
@@ -301,7 +298,6 @@
             this.checkBox1.TabIndex = 26;
             this.checkBox1.Text = "Sim";
             this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // checkBox2
             // 

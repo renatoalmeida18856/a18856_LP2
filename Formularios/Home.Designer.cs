@@ -34,6 +34,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.inicio1 = new Formularios.inicio();
+            this.regioesF1 = new Formularios.RegioesF();
             this.SuspendLayout();
             // 
             // textBox2
@@ -65,6 +66,7 @@
             this.button2.TabIndex = 15;
             this.button2.Text = "Doenças";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // button1
             // 
@@ -95,11 +97,19 @@
             // inicio1
             // 
             this.inicio1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.inicio1.Location = new System.Drawing.Point(225, 86);
+            this.inicio1.Location = new System.Drawing.Point(207, 63);
             this.inicio1.Margin = new System.Windows.Forms.Padding(6);
             this.inicio1.Name = "inicio1";
             this.inicio1.Size = new System.Drawing.Size(1822, 916);
             this.inicio1.TabIndex = 19;
+            // 
+            // regioesF1
+            // 
+            this.regioesF1.BackColor = System.Drawing.SystemColors.Window;
+            this.regioesF1.Location = new System.Drawing.Point(286, 63);
+            this.regioesF1.Name = "regioesF1";
+            this.regioesF1.Size = new System.Drawing.Size(994, 496);
+            this.regioesF1.TabIndex = 20;
             // 
             // Infecao
             // 
@@ -113,6 +123,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.regioesF1);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Infecao";
             this.Text = "Gestão de Infecao";
@@ -128,8 +139,8 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
-        private UserControl1 userControl11;
         private System.Windows.Forms.TextBox textBox1;
+        private RegioesF regioesF1;
         private inicio inicio1;
     }
 }

@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Formularios
@@ -45,11 +39,13 @@ namespace Formularios
             bool ValidUltimo = false;
 
 
-            if (textBox5.Text != "") {
+            if (textBox5.Text != "")
+            {
                 p.PrimeiroNome = textBox5.Text;
                 ValidPrimeiro = true;
             }
-            else {
+            else
+            {
                 ValidPrimeiro = false;
                 MessageBox.Show("Preencha o campo primeiro nome.");
             }
@@ -66,7 +62,7 @@ namespace Formularios
                 MessageBox.Show("Preencha o campo último nome.");
             }
 
-            p.Morada= textBox1.Text;
+            p.Morada = textBox1.Text;
             p.Genero = comboBox1.Text;
             p.DataNasc = dateTimePicker1.Value;
             p.Infetado = checkBox1.Checked;
@@ -89,26 +85,6 @@ namespace Formularios
             dataGridView2.DataSource = db;
         }
 
-        private void label9_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label7_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
         private void dataGridView2_RowHeaderMouseClick(object sender, DataGridViewCellMouseEventArgs e)
         {
             // Obter os dados para poder editar 
@@ -118,8 +94,9 @@ namespace Formularios
             textBox5.Text = dataGridView2.Rows[rowIndex].Cells[1].Value.ToString();
             textBox1.Text = dataGridView2.Rows[rowIndex].Cells[5].Value.ToString();
             comboBox1.Text = dataGridView2.Rows[rowIndex].Cells[3].Value.ToString();
-            if (dataGridView2.Rows[rowIndex].Cells[7].Value.ToString() == "1") 
-            { checkBox1.Checked = true; }else { checkBox1.Checked = false; }
+            if (dataGridView2.Rows[rowIndex].Cells[7].Value.ToString() == "1")
+            { checkBox1.Checked = true; }
+            else { checkBox1.Checked = false; }
 
         }
     }

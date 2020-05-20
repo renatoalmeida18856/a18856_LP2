@@ -11,4 +11,5 @@ C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalh
 C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.pdb
 C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\bin\Debug\bd_infetados.accdb
 C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.Infecao.resources
-C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.Regioes.resources
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.RegioesF.resources
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Formularios\obj\Debug\Formularios.PacientesF.resources

@@ -59,12 +59,18 @@ namespace Formularios
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            userControl11.BringToFront();
+
         }
 
         private void button3_Click_1(object sender, EventArgs e)
         {
-            //.BringToFront();
+
+            regioesF1.BringToFront();
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

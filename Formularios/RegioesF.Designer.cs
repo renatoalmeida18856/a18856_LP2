@@ -168,7 +168,6 @@
             this.button2.TabIndex = 40;
             this.button2.Text = "Adicionar";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // textBox1
             // 
@@ -243,6 +242,7 @@
             this.Controls.Add(this.textBox2);
             this.Name = "RegioesF";
             this.Size = new System.Drawing.Size(994, 496);
+            this.Load += new System.EventHandler(this.RegioesF_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
