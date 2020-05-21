@@ -81,6 +81,12 @@
     <Compile Include="RegioesF.Designer.cs">
       <DependentUpon>RegioesF.cs</DependentUpon>
     </Compile>
+    <Compile Include="teste.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="teste.Designer.cs">
+      <DependentUpon>teste.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>
@@ -101,6 +107,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RegioesF.resx">
       <DependentUpon>RegioesF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teste.resx">
+      <DependentUpon>teste.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="bd_infetadosDataSet.xsc">
       <DependentUpon>bd_infetadosDataSet.xsd</DependentUpon>

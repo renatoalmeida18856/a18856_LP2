@@ -1,0 +1,11 @@
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\bin\Debug\Teste_1.exe.config
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\bin\Debug\Teste_1.exe
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\bin\Debug\Teste_1.pdb
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\obj\Debug\Teste_1.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\obj\Debug\Teste_1.Form1.resources
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\obj\Debug\Teste_1.Properties.Resources.resources
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\obj\Debug\Teste_1.UserControl1.resources
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\obj\Debug\Teste_1.csproj.GenerateResource.cache
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\obj\Debug\Teste_1.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\obj\Debug\Teste_1.exe
+C:\Users\renat\OneDrive\Ambiente de Trabalho\Licenciatura\2_semestre\lp2\Trabalho_Pratico\Teste_1\obj\Debug\Teste_1.pdb
