@@ -44,6 +44,7 @@
             this.textBox2.Size = new System.Drawing.Size(186, 13);
             this.textBox2.TabIndex = 17;
             this.textBox2.Text = "Escolha uma opção";
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // button3
             // 
@@ -54,6 +55,7 @@
             this.button3.TabIndex = 16;
             this.button3.Text = "Regiões";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button2
             // 
@@ -64,6 +66,7 @@
             this.button2.TabIndex = 15;
             this.button2.Text = "Doenças";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -74,6 +77,7 @@
             this.button1.TabIndex = 14;
             this.button1.Text = "Pacientes";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
@@ -97,6 +101,7 @@
             this.inicio1.Name = "inicio1";
             this.inicio1.Size = new System.Drawing.Size(1822, 916);
             this.inicio1.TabIndex = 19;
+            this.inicio1.Load += new System.EventHandler(this.inicio1_Load);
             // 
             // Infecao
             // 
